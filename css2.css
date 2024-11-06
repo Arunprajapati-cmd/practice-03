@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.navbar {
+    margin-left: 50px;
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+#new .box{
+    border: 1px solid black ;
+    width: 200px;
+    height: 200px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+#new
+{
+    display: flex;
+    flex-wrap: wrap;
+}
