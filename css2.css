@@ -23,3 +23,12 @@
     display: flex;
     flex-wrap: wrap;
 }
+#box1 {
+    background-color: rgb(246, 174, 20);
+    width: 200px;
+    height: 200px;
+    border: 1px solid aqua;
+    border-radius: 50%;
+    margin-left: 35%;
+   
+}
