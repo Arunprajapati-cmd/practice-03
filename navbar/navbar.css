@@ -31,4 +31,14 @@
     padding: 10px;
     border-radius: 10px;
 }
-#home
+
+#Home {
+    width: 100%;
+    height: 100vh;
+    background-image: url(vecteezy_backpacker-hiking-mountain-peak-enjoys-extreme-terrain_24715259.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+
+
