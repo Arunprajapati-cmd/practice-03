@@ -42,3 +42,31 @@
 }
 
 
+
+
+/* ============about us=============  */
+
+#about
+{
+    width: 100%;
+    height: 100vh;
+
+}
+#about .aboutdiv {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+#about .aboutdiv .div1{
+    width: 50%;
+}
+#about .aboutdiv .div2{
+    width: 50%;
+    /* display: flex;
+    justify-content: center;
+    text-align: center; */
+
+}
+
