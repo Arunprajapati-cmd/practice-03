@@ -50,6 +50,7 @@
 {
     width: 100%;
     height: 100vh;
+    margin-top: 20px;
 
 }
 #about .aboutdiv {
@@ -58,15 +59,14 @@
     justify-content: center;
     text-align: center;
     align-items: center;
+    flex-wrap: wrap;
 }
 #about .aboutdiv .div1{
-    width: 50%;
+    width: 400px;
 }
 #about .aboutdiv .div2{
-    width: 50%;
-    /* display: flex;
-    justify-content: center;
-    text-align: center; */
+    width: 400px;
+    text-align: center; 
 
 }
 
