@@ -1,0 +1,13 @@
+// .name{
+//     color: aquamarine;
+//     size: 20px;
+
+// }
+#name{
+    p{
+        color: adjust-color($color: \, $red: 1, $green: 2, $blue: 3, $hue: 0, $saturation: 0%, $lightness: 0%, $alpha: 1.0);
+    }
+    h2{
+        color: aqua;
+    }
+}
