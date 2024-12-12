@@ -1,6 +1,5 @@
-function okk(){
-let text="this";
-// document.write(text.charAt(2))pass the index number starting from 0
-document.write(text.toUpperCase)
-
+function okk()
+{
+ let text =`this <br> cybrom office string`
+ document.write(text);
 }
